@@ -6,6 +6,7 @@
     "version": "3.9.0"
   },
   "dependencies": {
+    "add": "^2.0.6",
     "eslint": "^6.0.1",
     "hexo": "^3.9.0",
     "hexo-asset-image": "git+https://github.com/7ym0n/hexo-asset-image.git",
@@ -15,9 +16,12 @@
     "hexo-generator-index": "^0.2.1",
     "hexo-generator-tag": "^0.2.0",
     "hexo-renderer-ejs": "^0.3.1",
+    "hexo-renderer-jade": "^0.4.1",
     "hexo-renderer-marked": "^1.0.1",
     "hexo-renderer-stylus": "^0.3.3",
     "hexo-server": "^0.3.3",
-    "save": "^2.4.0"
+    "or": "^0.2.0",
+    "save": "^2.4.0",
+    "yarn": "^1.17.3"
   }
 }
